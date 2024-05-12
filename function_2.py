@@ -1,2 +1,2 @@
-def homo():
-    return "Я человек"
+def animal():
+    return "Я животное"
